@@ -1,3 +1,14 @@
+# Pokemon Mystery Dungeon Wonder Mail Generator App for Android, IOS and Windows
+>Use this tool to generate a Wonder Mail for a rescue mission.
+
+- This is inspired from the https://syphist.com/pmd/rt/wondermail.php
+- Based on the Writtings by Peter O. of The Ultimate Pokemon Center. 
+- (C) 2007 Peter O.
+- The original can be found at http://www.upokecenter.com/games/dungeon/guides/wondermail.php.
+
+
+-----
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
@@ -40,6 +51,16 @@ npm run ios
 
 # OR using Yarn
 yarn ios
+```
+
+### For Windows
+
+```bash
+# using npm
+npx react-native run-windows
+
+# OR using Yarn
+yarn windows
 ```
 
 If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
