@@ -1,0 +1,122 @@
+export const AboveGround = [
+    0, 0, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0,
+    1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0
+]
+
+export const debug = 0
+export const baditems = "EDEEEFB1E924D8D2B0DC323334C2EC"
+export const baddungeons = "18191E2731323336373D3F"
+export const badpokemon =
+    "C90078017C01230125010E0051005200" +
+    "33015E009100920090009C010D010C01" +
+    "0E0113019600990198019D0112011401" +
+    "95019601970197009B019A019E01A401" +
+    "A501A601"
+
+export const floors =
+    "04060A0E0A0B040D0F0D040A06100618" +
+    "041A0A2964150564150C64641A1A0D15" +
+    "331F1F1F151F100D141F0B1015151F05" +
+    "050B033346101F14140C644C29646402"
+
+export const dungeons = [
+    "Tiny Woods",
+    "Thunderwave Cave",
+    "Mt. Steel",
+    "Sinister Woods",
+    "Silent Chasm",
+    "Mt. Thunder",
+    "Mt. Thunder Peak",
+    "Great Canyon",
+    "Lapis Cave",
+    "Mt. Blaze",
+    "Mt. Blaze Peak",
+    "Frosty Forest",
+    "Frosty Grotto",
+    "Mt. Freeze",
+    "Mt. Freeze Peak",
+    "Magma Cavern",
+    "Magma Cavern Pit",
+    "Sky Tower",
+    "Sky Tower Summit",
+    "Stormy Sea",
+    "Silver Trench",
+    "Meteor Cave",
+    "Mt. Freeze Peak",
+    "Western Cave",
+    "Boss 3",
+    "Boss 4",
+    "Wish Cave",
+    "Buried Relic",
+    "Pitfall Valley",
+    "Northern Range",
+    "Boss 9",
+    "Desert Region",
+    "Southern Cavern",
+    "Wyvern Hill",
+    "Fiery Field",
+    "Northwind Field",
+    "Solar Cave",
+    "Lightning Field",
+    "Darknight Relic",
+    "Wondrous Sea",
+    "Murky Cave",
+    "Grand Sea",
+    "Uproar Forest",
+    "Oddity Cave",
+    "Remains Island",
+    "Marvelous Sea",
+    "Fantasy Strait",
+    "Rock Path",
+    "Snow Path",
+    "Autopilot",
+    "D50",
+    "D51",
+    "Dojo Registration",
+    "Howling Forest",
+    "D54",
+    "Fantasy Strait",
+    "Waterfall Pond",
+    "Unown Relic",
+    "Joyous Tower",
+    "Far-off Sea",
+    "Mt. Faraway",
+    "D61",
+    "Purity Forest",
+    "Out on Rescue",
+    "???",
+    "Tiny Woods",
+    "Unknown World",
+    "Frosty Grotto",
+    "Howling Forest",
+    "Pokémon Square",
+    "Pokémon Square",
+    "Rescue Team Base",
+    "Rescue Team Base",
+    "****agb-slot ",
+    "Client Pokémon",
+    "Normal Maze",
+    "Fire Maze",
+    "Water Maze",
+    "Grass Maze",
+    "Electric Maze",
+    "Ice Maze",
+    "Fighting Maze",
+    "Ground Maze",
+    "Flying Maze",
+    "Psychic Maze",
+    "Poison Maze",
+    "Bug Maze",
+    "Rock Maze",
+    "Ghost Maze",
+    "Dragon Maze",
+    "Dark Maze",
+    "Steel Maze",
+    "Team Shifty",
+    "Team Constrictor",
+    "Team Hydro",
+    "Team Rumblerock",
+    "Rescue Team 2",
+    "Rescue Team Maze"
+]
